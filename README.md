@@ -258,6 +258,7 @@ watch.
 * [If You Had Bought Crypto](https://ifyouhadboughtcrypto.com) - How rich would you be if you had invested in your favourite Cryptocurrency?
 * [Vaulty.io](https://vaulty.io) - Accept any cryptocurrency for your website, blog, or for general personal use with just one link.
 * [Bitcoin Flip Trading simulator](http://financeillustrated.com/go/bitcoinflip/) - 101% realistic and fun crypto trading Simulator for Beginners!
+* [Bitcoin QR Code Generator](https://bitcoinqrcodegenerator.net/) - Create bitcoin qr codes for any address.
 * [QWallet](http://qwallet.io/) - Search & view the value of any Ethereum wallet, create your own token portfolio.
 * [Ethplorer](https://ethplorer.io) - Block explorer and analytics platform for Ethereum.
 * [EtherChain](https://etherchain.org) - Ethereum Blockchain Explorer.
